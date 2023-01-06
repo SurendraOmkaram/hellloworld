@@ -1,4 +1,6 @@
 import java.lang.*;
 class HelloWorld{
-Sysem.out.println("Hello World");
+  public static void main(String args[]){
+    Sysem.out.println("Hello World");
+}
 }
